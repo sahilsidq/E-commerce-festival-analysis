@@ -1,4 +1,4 @@
-# E-commerce-festival-analysis
+# E-commerce-festival-Seasons-sales-analysis
 Analyzing impact of festival seasons on E-commerce
 
 <b> Project Overview</b>
